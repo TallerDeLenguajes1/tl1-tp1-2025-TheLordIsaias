@@ -31,6 +31,7 @@ int main(){
     mostrarVariable(a);
     printf("--Reviso la variable b--\n");
     mostrarVariable(b);
+    
     return 0;
 }
 
